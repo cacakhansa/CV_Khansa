@@ -1,0 +1,33 @@
+
+
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #FFC0D3;
+  }
+  
+  #hobby {
+    background-color: #FFC0D3;
+  }
+  
+  .myHobby {
+    color: #FFC0D3;
+  }
+  
+  .btn {
+      color: rgb(220, 47, 47);
+  }
+  
+  .pelengkap {
+      color: #FFC0D3;
+  }
+  
+  
+  #about {
+      padding-top: 5rem;
+      color: #524A4E;
+  }
+  
+  #contact {
+      padding-top: 5rem;
+      color: #ffff;
+  }
